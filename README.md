@@ -17,7 +17,7 @@ From simple building blocks to intricate sets, LEGO has become synonymous with c
 Retailers worldwide sell a staggering 7 LEGO sets every single second. 
 
 Presentation:
-link
+https://www.canva.com/design/DAGRAglV2qg/6SLsnFBKNxxLboaNknnnIA/view?utm_content=DAGRAglV2qg&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 Resources:
 https://www.kaggle.com/datasets/rtatman/lego-database
