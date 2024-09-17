@@ -3,6 +3,7 @@
 ![_88789f42-1d7e-4e82-9e90-573ad883e205](https://github.com/user-attachments/assets/b1924eb7-19c3-442e-bb9b-94494ce808a1)
 
 Learning Goals: 
+
 Construct and apply conditions within SQL queries.
 
 Demonstrate the ability to filter tables effectively.
@@ -12,7 +13,8 @@ Use SQL joins to combine data from multiple tables.
 Use advanced SQL queries to perform more complex data manipulations and analysis.
 
 
-Prerequisites
+Prerequisites:
+
 Before this starting this lab, you should have learnt about:
 
 Fundamental concepts of database design, including entities, attributes, primary keys, and foreign keys.
@@ -20,6 +22,7 @@ Fundamental concepts of database design, including entities, attributes, primary
 Basic comprehension of SQL syntax and statements, such as CREATE, INSERT INTO, UPDATE, and DELETE.
 
 Familiarity with the concept of NOT NULL constraints and data types in SQL.
+
 
 Introduction:
 
