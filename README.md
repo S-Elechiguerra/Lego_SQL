@@ -4,7 +4,8 @@
 
 Project Overview:
 
-The goal of the “LEGO Dataset Project is to load and analyze data in MySQL” from various CSV files into a MySQL database and perform advanced analyses to extract useful information about LEGO sets, colors, and more. 
+The goal of the "LEGO Dataset Project" is to load and analyze data in MySQL from various CSV files into a MySQL database and perform advanced analyses to extract useful information about LEGO sets, colors, and more. 
+
 By taking advantage of Python, Pandas, SQLAlchemy, and SQL, this project provides an opportunity to practice database manipulation and data visualization.
 
 Database Schema:
